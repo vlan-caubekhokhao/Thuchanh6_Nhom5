@@ -1,7 +1,7 @@
 CTXXXTH_Lab06: CSDL & ĐÁNH GIÁ ĐỘ TIN CẬY THÔNG TIN
 Dự án này lưu trữ kết quả thực hành của Buổi 6, tập trung vào kỹ năng quản trị cơ sở dữ liệu trên Microsoft Access và phương pháp nghiên cứu thông tin khoa học.
 
-Danh sách thành phần (Artifacts)
+Danh sách thành phần 
 Hệ thống bài nộp bao gồm 03 tệp tin chính:
 Dữ liệu thô (.xlsx): Gồm 03 bảng (Worksheet) về danh sách sinh viên, điểm số và danh mục môn học.
 Cơ sở dữ liệu (.accdb): Chuyển đổi từ Excel sang Access, thiết lập liên kết và thực thi các câu lệnh truy vấn dữ liệu.
@@ -14,7 +14,7 @@ Lọc sinh viên theo lớp (ví dụ: D11296A1, DI1296A2).
 Truy vấn sinh viên theo môn học cụ thể (ví dụ: CT178).
 Kết hợp nhiều điều kiện: Lọc sinh viên theo lớp, môn học và kết quả học tập (Điểm C).
 
-2. Nghiên cứu SQL vs NoSQL (CRAAP Test)
+2. Nghiên cứu SQL vs NoSQL 
 Thực hiện đánh giá nguồn tin chuyên sâu về khả năng mở rộng và tính nhất quán dữ liệu:
 Câu hỏi nghiên cứu: Xác định ưu/nhược điểm của SQL và NoSQL trong xử lý dữ liệu lớn.
 Chiến lược tìm kiếm: Sử dụng toán tử nâng cao (ví dụ: filetype:pdf) và từ khóa chuyên ngành.
